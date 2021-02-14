@@ -3,7 +3,7 @@
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
 ## I will discuss these Modules in this project to analysis data
-..
+
 Module 1: Importing Data Sets
 
 Module 2: Data Wrangling
